@@ -22,7 +22,7 @@ export default function App() {
 
       <View style={styles.formContainer}>
         <View style={styles.inputContainer}>
-          <Text style={styles.label}>Nome / Usuário</Text>
+          <Text style={styles.label}>Nome do Usuário</Text>
           <TextInput
             style={styles.input}
             value={nomeUsuario}
